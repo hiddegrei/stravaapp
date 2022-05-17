@@ -1,5 +1,5 @@
 # STRAVA APP GRETRAINING
-#### Video Demo:  https://youtu.be/uaFpnPi0gOY
+
 #### Description:
 I have build an app using the Strava API to display workouts and get insights in weekly intensity scores.
 The back-end is build in python using a flask server. And the front-end is build with React js.
